@@ -1,0 +1,1 @@
+Data Security Protocol: All company laptops must have disk encryption enabled. Personal devices are strictly prohibited from accessing internal production databases.
